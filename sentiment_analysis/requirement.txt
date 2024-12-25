@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+transformers
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+gdown
+textwrap3
