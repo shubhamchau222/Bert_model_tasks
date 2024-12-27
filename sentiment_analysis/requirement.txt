@@ -9,3 +9,4 @@ matplotlib
 seaborn
 gdown
 textwrap3
+colabcode

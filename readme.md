@@ -1,5 +1,6 @@
 # BERT MODEL
 
+![alt text](image.png)
 
 ## HuggingFace have multiple classes for BERT
 Hugging Face provides various BERT-based models designed for specific NLP tasks. While all these models are built on top of the core BERT architecture (`BertModel`), they include task-specific heads to address different NLP problems. Here's an overview of each:
