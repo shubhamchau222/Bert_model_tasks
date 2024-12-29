@@ -1,0 +1,39 @@
+{
+  "os":  "Linux-6.1.85+-x86_64-with-glibc2.35",
+  "python":  "CPython 3.10.12",
+  "startedAt":  "2024-12-28T17:47:22.647102Z",
+  "program":  "TextClassification_notebook.ipynb",
+  "codePath":  "TextClassification_notebook.ipynb",
+  "email":  "shubhamair1996@gmail.com",
+  "root":  "/content/drive/MyDrive/NlpWithTransformers/TextClassification",
+  "host":  "2a3b9b6bac3a",
+  "executable":  "/usr/bin/python3",
+  "codePathLocal":  "TextClassification_notebook.ipynb",
+  "colab":  "https://colab.research.google.com/notebook#fileId=1m4wIc9nX_OXOA-CZ5a1jq_WSJ63E87CG",
+  "cpu_count":  1,
+  "cpu_count_logical":  2,
+  "gpu":  "Tesla T4",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "120942624768",
+      "used":  "35499343872"
+    }
+  },
+  "memory":  {
+    "total":  "13609431040"
+  },
+  "cpu":  {
+    "count":  1,
+    "countLogical":  2
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "Tesla T4",
+      "memoryTotal":  "16106127360",
+      "cudaCores":  2560,
+      "architecture":  "Turing"
+    }
+  ],
+  "cudaVersion":  "12.2"
+}

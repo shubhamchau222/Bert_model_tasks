@@ -1,0 +1,113 @@
+<ipython-input-130-a5123d116f4c>:14: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  torch.tensor(batch['label']).to(device),
+<ipython-input-135-d44d921dcc0b>:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  input_ids = torch.tensor(batch['input_ids']).to(device)
+<ipython-input-135-d44d921dcc0b>:7: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  attention_mask = torch.tensor(batch['attention_mask']).to(device)
+<ipython-input-135-d44d921dcc0b>:10: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(batch['label']).to(device)
+<ipython-input-135-d44d921dcc0b>:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  input_ids = torch.tensor(batch['input_ids']).to(device)
+<ipython-input-135-d44d921dcc0b>:7: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  attention_mask = torch.tensor(batch['attention_mask']).to(device)
+<ipython-input-135-d44d921dcc0b>:10: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(batch['label']).to(device)
+<ipython-input-135-d44d921dcc0b>:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  input_ids = torch.tensor(batch['input_ids']).to(device)
+<ipython-input-135-d44d921dcc0b>:7: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  attention_mask = torch.tensor(batch['attention_mask']).to(device)
+<ipython-input-135-d44d921dcc0b>:10: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(batch['label']).to(device)
+<ipython-input-135-d44d921dcc0b>:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  input_ids = torch.tensor(batch['input_ids']).to(device)
+<ipython-input-135-d44d921dcc0b>:7: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  attention_mask = torch.tensor(batch['attention_mask']).to(device)
+<ipython-input-135-d44d921dcc0b>:10: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(batch['label']).to(device)
+<ipython-input-135-d44d921dcc0b>:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  input_ids = torch.tensor(batch['input_ids']).to(device)
+<ipython-input-135-d44d921dcc0b>:7: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  attention_mask = torch.tensor(batch['attention_mask']).to(device)
+<ipython-input-135-d44d921dcc0b>:10: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(batch['label']).to(device)
+<ipython-input-143-73a29d802dcc>:10: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(batch['label']).to(device)
+<ipython-input-143-73a29d802dcc>:10: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(batch['label']).to(device)
+{'text': 'im feeling rather rotten so im not very ambitious right now', 'label': 0, 'input_ids': [101, 10047, 3110, 2738, 11083, 2061, 10047, 2025, 2200, 12479, 2157, 2085, 102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'attention_mask': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+<ipython-input-143-73a29d802dcc>:10: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(batch['label']).to(device)
+{'label': tensor(0), 'input_ids': tensor([  101, 10047,  3110,  2738, 11083,  2061, 10047,  2025,  2200, 12479,
+         2157,  2085,   102,     0,     0,     0,     0,     0,     0,     0,
+            0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+            0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+            0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+            0,     0,     0,     0,     0,     0,     0,     0,     0,     0,
+            0,     0,     0,     0,     0,     0]), 'attention_mask': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])}
+{'text': 'im feeling rather rotten so im not very ambitious right now', 'label': 0, 'input_ids': [101, 10047, 3110, 2738, 11083, 2061, 10047, 2025, 2200, 12479, 2157, 2085, 102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'attention_mask': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{'text': 'im feeling rather rotten so im not very ambitious right now', 'label': 0, 'input_ids': [101, 10047, 3110, 2738, 11083, 2061, 10047, 2025, 2200, 12479, 2157, 2085, 102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'attention_mask': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'loss': 0.004652864299714565, 'labels': 0}
+{'text': 'im feeling rather rotten so im not very ambitious right now', 'label': 0, 'input_ids': [101, 10047, 3110, 2738, 11083, 2061, 10047, 2025, 2200, 12479, 2157, 2085, 102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'attention_mask': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{'text': 'im feeling rather rotten so im not very ambitious right now', 'label': 0, 'input_ids': [101, 10047, 3110, 2738, 11083, 2061, 10047, 2025, 2200, 12479, 2157, 2085, 102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'attention_mask': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'loss': 0.004652864299714565, 'predicted_label': 0}
+[{'label': 'LABEL_1', 'score': 0.9962221384048462}]
+[{'label': 'LABEL_1', 'score': 0.9962221384048462}]
+[{'label': 'LABEL_1', 'score': 0.9962221384048462}]
+[{'label': 'joy', 'score': 0.9962221384048462}]
+[{'label': 'joy', 'score': 0.988720715045929}]
+[{'label': 'joy', 'score': 0.9862485527992249}]
+[{'label': 'joy', 'score': 0.9657909274101257}]
+[{'label': 'sadness', 'score': 0.9902717471122742}]
+[{'label': 'anger', 'score': 0.586988091468811}]
+[{'label': 'joy', 'score': 0.9453122019767761}]
+[{'label': 'sadness', 'score': 0.9475700259208679}]
+[{'label': 'anger', 'score': 0.9378119707107544}]
+[{'label': 'sadness', 'score': 0.7232182621955872}]
+[{'label': 'sadness', 'score': 0.9956610798835754}]
+[{'label': 'sadness', 'score': 0.9944463968276978}]
+[{'label': 'fear', 'score': 0.9892753958702087}]
+[{'label': 'fear', 'score': 0.9839206337928772}]
+[{'label': 'joy', 'score': 0.8809731006622314}]
+[{'label': 'surprise', 'score': 0.8591839075088501}]
+[{'label': 'joy', 'score': 0.9183285236358643}]
+sentence : I am so happy to see my friends again!
+emotion : [{'label': 'joy', 'score': 0.9183285236358643}]
+sentence : I can't believe they canceled the event at the last minute!
+emotion : [{'label': 'joy', 'score': 0.9183285236358643}]
+sentence : I feel so lonely today, like no one understands me.
+emotion : [{'label': 'joy', 'score': 0.9183285236358643}]
+sentence : I have a bad feeling about this trip; I’m really nervous.
+emotion : [{'label': 'joy', 'score': 0.9183285236358643}]
+sentence : Wow, I didn’t expect that plot twist in the movie!
+emotion : [{'label': 'joy', 'score': 0.9183285236358643}]
+sentence : That smell in the kitchen is absolutely disgusting!
+emotion : [{'label': 'joy', 'score': 0.9183285236358643}]
+sentence : I am so happy to see my friends again!
+emotion : [{'label': 'joy', 'score': 0.9936019778251648}]
+sentence : I can't believe they canceled the event at the last minute!
+emotion : [{'label': 'sadness', 'score': 0.9475700259208679}]
+sentence : I feel so lonely today, like no one understands me.
+emotion : [{'label': 'sadness', 'score': 0.9956610798835754}]
+sentence : I have a bad feeling about this trip; I’m really nervous.
+emotion : [{'label': 'fear', 'score': 0.9892753958702087}]
+sentence : Wow, I didn’t expect that plot twist in the movie!
+emotion : [{'label': 'joy', 'score': 0.8809731006622314}]
+sentence : That smell in the kitchen is absolutely disgusting!
+emotion : [{'label': 'anger', 'score': 0.9105125665664673}]
+sentence : I am so happy to see my friends again!
+emotion : [{'label': 'joy', 'score': 0.9936019778251648}]
+
+sentence : I can't believe they canceled the event at the last minute!
+emotion : [{'label': 'sadness', 'score': 0.9475700259208679}]
+
+sentence : I feel so lonely today, like no one understands me.
+emotion : [{'label': 'sadness', 'score': 0.9956610798835754}]
+
+sentence : I have a bad feeling about this trip; I’m really nervous.
+emotion : [{'label': 'fear', 'score': 0.9892753958702087}]
+
+sentence : Wow, I didn’t expect that plot twist in the movie!
+emotion : [{'label': 'joy', 'score': 0.8809731006622314}]
+
+sentence : That smell in the kitchen is absolutely disgusting!
+emotion : [{'label': 'anger', 'score': 0.9105125665664673}]
